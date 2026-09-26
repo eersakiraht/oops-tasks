@@ -38,8 +38,6 @@ class Student{
 public class Task5{
 	public static void main(String[] args) {
 		Student s1 = new Student(1234,"Thari","CSE",8.1f);
-		Student s2 = new Student(5678,"JK","AIML", 9.0f);
 		System.out.println(s1);
-		System.out.println(s2);
 	}
 }
