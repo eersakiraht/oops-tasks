@@ -1,6 +1,6 @@
 //Task-5
 
-package com.tharika;
+package com.tharika.unit1;
 
 class Student{
 	int rollNumber;

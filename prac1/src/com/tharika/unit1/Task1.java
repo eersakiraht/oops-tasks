@@ -1,6 +1,6 @@
 //Task 1
 
-package com.tharika;
+package com.tharika.unit1;
 
 public class Task1{
 	public static void main(String[] args) {

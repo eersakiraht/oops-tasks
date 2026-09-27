@@ -1,6 +1,6 @@
 //Task 7
 
-package com.tharika;
+package com.tharika.unit1;
 
 class Employee{
 	int ID;

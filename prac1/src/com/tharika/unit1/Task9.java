@@ -1,4 +1,4 @@
-package com.tharika;
+package com.tharika.unit1;
 
 abstract class Employee_staff {
     abstract double calculateSalary();

@@ -1,4 +1,4 @@
-package com.tharika;
+package com.tharika.unit1;
 
 class BankAccount {
     private int accountNumber; 

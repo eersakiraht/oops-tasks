@@ -1,6 +1,6 @@
 //Task 4
 
-package com.tharika;
+package com.tharika.unit1;
 
 public class Task4 {
 
