@@ -34,8 +34,8 @@ class Circle extends Shape{
 
 public class Task8{
 	public static void main(String[] args) {
-		Rectangle r1 = new Rectangle(5,7);
-		Circle c1 = new Circle(5);
+		Shape r1 = new Rectangle(5,7);
+		Shape c1 = new Circle(5);
 		System.out.println("Rectangle Area: "+ r1.area());
 		System.out.println("Circle Area: " + c1.area());
 		
