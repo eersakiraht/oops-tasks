@@ -24,27 +24,3 @@ public class Task22 {
         System.out.println("Brand: " + m2.brand + "\nPrice: " + m2.price);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-public class Task22 {
-
-	public static void main(String[] args) {
-		
-
-	}
-
-}
