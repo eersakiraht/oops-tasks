@@ -29,7 +29,7 @@ class Student1{
 				+ "\nDepartment: " + department;
 	}
 }
-public class Task6 {
+public class Task06 {
 	public static void main(String[] args) {
 		Student1 s1 = new Student1(477,"Tharika","CSE");
 		Student1 s2 = new Student1(478,"Tharun","useless");

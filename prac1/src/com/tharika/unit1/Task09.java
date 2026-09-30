@@ -34,7 +34,7 @@ class Developer extends Employee_staff {
     }
 }
 
-public class Task9 {
+public class Task09 {
     public static void main(String[] args) {
         Employee_staff m1 = new Manager(2000.0, 500.0);
         Employee_staff d1 = new Developer(50.0, 40);

@@ -35,7 +35,7 @@ class Student{
 	}
 }
 
-public class Task5{
+public class Task05{
 	public static void main(String[] args) {
 		Student s1 = new Student(1234,"Thari","CSE",8.1f);
 		System.out.println(s1);

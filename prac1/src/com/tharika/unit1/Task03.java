@@ -2,7 +2,7 @@
 
 package com.tharika.unit1;
 
-public class Task3 {
+public class Task03 {
 
 	public static void main(String[] args) {
 		short abovesealevel = 50;

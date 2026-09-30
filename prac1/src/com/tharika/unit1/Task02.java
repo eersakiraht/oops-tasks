@@ -2,7 +2,7 @@
 
 package com.tharika.unit1;
 
-public class Task2 {
+public class Task02 {
 
 	public static void main(String[] args) {
 		byte batterylevel = 67;

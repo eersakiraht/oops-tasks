@@ -2,7 +2,7 @@
 
 package com.tharika.unit1;
 
-public class Task4 {
+public class Task04 {
 
 	public static void main(String[] args) {
 		int highscore = 100;

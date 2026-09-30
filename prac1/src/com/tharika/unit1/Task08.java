@@ -32,7 +32,7 @@ class Circle extends Shape{
 	}
 }
 
-public class Task8{
+public class Task08{
 	public static void main(String[] args) {
 		Shape r1 = new Rectangle(5,7);
 		Shape c1 = new Circle(5);

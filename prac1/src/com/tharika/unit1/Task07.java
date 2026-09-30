@@ -30,7 +30,7 @@ class Employee{
     }
 }
 
-public class Task7 {
+public class Task07 {
 	public static void main(String[] args) {
 		Employee emp1 = new Employee(100,"Tharika",25000);
 		System.out.println(emp1);
